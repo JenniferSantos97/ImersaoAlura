@@ -1,1 +1,0 @@
-console.log("Hello Wolrd do Script JS");
